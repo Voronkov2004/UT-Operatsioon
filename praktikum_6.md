@@ -1,4 +1,4 @@
-# Praktikum 4
+# Praktikum 6
 Täna töötasime linuxis protsesside ja signaalidega, kasutasime ainualt käsurea.
 
 <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OS-praks_6.1.png?raw=true">
