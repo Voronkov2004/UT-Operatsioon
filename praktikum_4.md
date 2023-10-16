@@ -1,4 +1,4 @@
-![image](https://github.com/Voronkov2004/UT-Operatsioon/assets/144661971/e1b73256-1468-4fea-a0f3-5cce955655ac)# Praktikum 4
+# Praktikum 4
 Töötasime windowsiga. Tegelesime turvalisusega ja teiste seadistustega.
 
 <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OS-praks_4.1.png?raw=true">
