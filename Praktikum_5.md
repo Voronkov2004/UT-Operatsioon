@@ -21,10 +21,15 @@ b) Peab olema kirjutamisõigus ja kustutamisõigus.
 
 5.8. 
 (#) file: hinded.txt
+
 (#)owner: peeter
+
 (#) group: peeter
+
 user::rw-
+
 group::rw-
+
 other::r--
 
 
