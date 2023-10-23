@@ -20,9 +20,9 @@ b) Peab olema kirjutamisõigus ja kustutamisõigus.
 5.7. Kasutajad kes saavad kustutada faili: "õpetaja", "peeter", muu kasutaja kes loonud faile.
 
 5.8. 
-# file: hinded.txt
-# owner: peeter
-# group: peeter
+(#) file: hinded.txt
+(#)owner: peeter
+(#) group: peeter
 user::rw-
 group::rw-
 other::r--
