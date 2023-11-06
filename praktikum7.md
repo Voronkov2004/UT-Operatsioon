@@ -8,7 +8,7 @@ Täna töötasime Windowsiga ja Linuxiga VirtualBoxis. Tegelesime haakimisega.
 
 3. Link: https://kodu.ut.ee/~voronkov/hdd.png
 
-4. <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OS-praks_6.1.png?raw=true">
+4. <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OS-praks%207.2.png?raw=true">
 
 5. "-o ro" muutub andmekandja ainult lugemiseks; "-t auto" lubab süsteemil automaatselt tuvastada kandja failisüsteemi tüübi.
 
