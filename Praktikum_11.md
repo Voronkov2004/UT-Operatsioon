@@ -8,4 +8,4 @@ Täna töötasime DNS-iga, HTTP-ga ja SMTP-ga, kasutasime oma tööl IP-aadressi
 <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/praks%2011.4.png?raw=true">
 <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/praks%2011.5.png?raw=true">
 <img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/praks%2011.6.png?raw=true">
-<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/praks%2011.7.png?raw=true">
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/Praks%2011.7.png?raw=true">
