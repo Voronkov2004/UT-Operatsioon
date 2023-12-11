@@ -17,7 +17,7 @@ echo "Eriala: $eriala"
 echo "Matriklinumber: $matriklinumber"
 ```
 
-<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/Praks-12.1.png?raw=true">
 
 
 4 ülesanne:
