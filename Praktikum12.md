@@ -17,6 +17,9 @@ echo "Eriala: $eriala"
 echo "Matriklinumber: $matriklinumber"
 ```
 
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+
+
 4 ülesanne:
 
 ```
@@ -38,6 +41,8 @@ do
      fi
 done
 ```
+
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
 
 5 ülesanne
 
@@ -85,4 +90,9 @@ tulemus=$(astendamine $esimene $teine)
 echo "9^5 tulemus on $tulemus"
 ```
 
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+
 7 ülesanne
+
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+
