@@ -90,7 +90,7 @@ tulemus=$(astendamine $esimene $teine)
 echo "9^5 tulemus on $tulemus"
 ```
 
-<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/Praks-12.5.1.png?raw=true">
 
 7 ülesanne
 
