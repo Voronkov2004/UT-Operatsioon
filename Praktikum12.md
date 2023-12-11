@@ -94,5 +94,11 @@ echo "9^5 tulemus on $tulemus"
 
 7 ülesanne
 
-<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+Selle ülesanne tegi mulle ChatGpt
+
+Küsimseks ma andsin Chatile terve ülesanne
+
+Vastus oli selline:
+
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/Praks%2012.png?raw=true">
 
