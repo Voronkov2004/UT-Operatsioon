@@ -42,7 +42,7 @@ do
 done
 ```
 
-<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/OP_1.png?raw=true">
+<img width="491" alt="OS23_lab1a" src="https://github.com/Voronkov2004/UT-Operatsioon/blob/main/Praks%2012.4.png?raw=true">
 
 5 ülesanne
 
